@@ -41,7 +41,6 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-   - You see the live site [here]()
 - What was your experience?
    - This was just practice it took less then 15min to complete.
 - What have you learned/improved?
